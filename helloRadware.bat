@@ -5,3 +5,5 @@ git clone https://github.com/Kiandr/HelloRadware.git
 cd HelloRadware
 
 sudo docker-compose up -d --build
+
+docker-compose -f docker-compose-prod.yml up -d --build
