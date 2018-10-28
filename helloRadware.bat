@@ -4,4 +4,4 @@
 git clone https://github.com/Kiandr/HelloRadware.git
 cd HelloRadware
 
-docker-compose up -d --build
+sudo docker-compose up -d --build
